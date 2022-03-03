@@ -1,9 +1,9 @@
 ################################################################################
 #                            Bayesian Network GUI
-#                           by Yan Li @ Oct 28 2014
+#                               Oct 28 2014
 #
 #Packages: bnlearn; gRain; Rgraphviz; graph
-#Functionalities: Different learning algorithm;Bayesian inference (Naïve Bayes)
+#Functionalities: Different learning algorithm;Bayesian inference (NaÃ¯ve Bayes)
 #Plot: DAG; other plots for bn.fit including(histogram, qq, xyplot...)
 #
 #
